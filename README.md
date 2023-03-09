@@ -2,4 +2,4 @@
 
 TMS KoDeIn Box, Version 1.0, 12/2022<br>
 Max Koehler and Stefan M. Goetz<br>
-(c) 2006-2022<br>
+(c) 2006-2023<br>
