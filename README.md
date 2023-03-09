@@ -1,4 +1,4 @@
-# TMS Koil (Kaiserslautern Coil) Design Instrument Box Kodein Box
+# Kaiserslautern coil design instrument (Kodein) for transcranial magnetic stimulation (TMS) and other magnetics
 
 TMS KoDeIn Box, Version 1.0, 12/2022<br>
 Kaiserslautern Coil Design and Instrument Box<br>
